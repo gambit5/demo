@@ -6,6 +6,7 @@
   width: 10em;
   height: 1em;
   margin: -0.5em 0 0 -5em;
+  cursor: pointer;
 }
 .cub-1 .ft {
   transform: translateZ(5em);
